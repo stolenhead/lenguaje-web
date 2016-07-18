@@ -4,6 +4,10 @@ h1{
 	font-family: Arial;
 	width: 500;
 }
+h2 {
+	color:black;
+	font-size:16px;
+	}
 img{
 	border: blue 1px solid;
 }
